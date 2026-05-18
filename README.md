@@ -14,7 +14,7 @@ Seasoned IT professional with over 25 years of industry experience specializing 
 Currently delivering elite managed infrastructure services and specialized local tech support across Western Australia.
 
 - 🌐 **Managed IT Services:** Proactive maintenance, infrastructure scaling, and technical consulting via [Lark Assist](https://larkassist.com.au).
-- 🛡️ **Threat Sanitization:** Rapid response frameworks and professional [Virus Removal in Perth](https://larkassist.com.au) to safeguard corporate operations.
+- 🛡️ **Threat Sanitization:** Rapid response frameworks and professional [Virus Removal in Perth](https://larkassist.com.au/it-support-services-perth/virus-malware-removal-perth/) to safeguard corporate operations.
 
 ---
 *Outside of engineering, you can find me climbing gradients in the Perth hills or cycling along the Swan River.*
